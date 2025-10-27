@@ -25,7 +25,7 @@ Apache® Pulsar™ is an open-source, distributed messaging and streaming platfo
 
 - [Dekaf](https://dekaf.io) - ☕️ **open-source**
 - [Pulsar Manager](https://github.com/apache/pulsar-manager/) - official management console for Apache Pulsar. **open-source**
-- [Streamvisor](https://streamvisor.com/) - **proprietary with free plan**
+- [Streamvisor](https://streamvisor.com/) - **proprietary**
 - [Pulsar Express](https://github.com/bbonnin/pulsar-express) - simple Web Interface for Apache Pulsar. **open-source**
 - [Pulsar Admin Console](https://github.com/datastax/pulsar-admin-console) - web-based UI that administrates topics, namespaces, sources, sinks, and various aspects of Apache Pulsar features. **open-source**
 
