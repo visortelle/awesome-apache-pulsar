@@ -2,6 +2,8 @@
 
 <img width="300px" src="https://user-images.githubusercontent.com/9302460/220744124-362cc066-8225-4782-b205-96941955f703.svg" />
 
+[**💥 Try Dekaf - open-source UI for Pulsar 💥**](https://github.com/visortelle/dekaf)
+
 Apache® Pulsar™ is an open-source, distributed messaging and streaming platform built for the cloud.
 
 [🏠 Official website](https://pulsar.apache.org/)
